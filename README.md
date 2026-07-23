@@ -1,2 +1,1 @@
-# carrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrros
-carros foto.png 
+> Este ficheiro contém exclusivamente imagens em formato PNG utilizadas na interface da Garagem DEV Mamas Dev. Todos os ficheiros foram preparados para integração no servidor português Gazada Roleplay e destinam-se apenas ao funcionamento deste recurso. A distribuição, cópia, edição, reutilização ou utilização destes ficheiros noutros projetos sem autorização do Mamas Dev e da administração do Gazada Roleplay não é permitida. Desenvolvido por Mamas Dev para o servidor português Gazada Roleplay. Fundador do servidor: Kabbs.
